@@ -7,9 +7,6 @@
 
 <h1 align="left">Pinned</h1>
 
-<a href="https://github.com/DarsoX/DBU-Anime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=DBU-Anime&theme=radical" />
-</a>
 <a href="https://github.com/DarsoX/DBU-STICKERS-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=Deviant&theme=radical" />
 </a>
