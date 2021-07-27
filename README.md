@@ -7,7 +7,7 @@
 
 <h1 align="left">Pinned</h1>
 
-<a href="https://github.com/DarsoX/DBU-STICKERS-API">
+<a href="https://github.com/DarsoX/Deviant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=Deviant&theme=radical" />
 </a>
 <a href="https://github.com/DarsoX/VkKeyboard">
