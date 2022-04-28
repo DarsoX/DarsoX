@@ -10,6 +10,6 @@
 <a href="https://github.com/DarsoX/Deviant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=Deviant&theme=radical" />
 </a>
-<a href="https://github.com/DarsoX/VkKeyboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=VkKeyboard&theme=radical" />
+<a href="https://github.com/DarsoX/GenshinImageCard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarsoX&repo=GenshinImageCard&theme=radical" />
 </a>
